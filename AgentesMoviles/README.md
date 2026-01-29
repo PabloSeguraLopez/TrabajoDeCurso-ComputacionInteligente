@@ -108,3 +108,8 @@ Incluye:
 
 - Modelo clásico Lobos–Ovejas–Hierba (NetLogo Models Library).
 - Boids / Flocking (Reynolds, 1987).
+
+## Uso de Inteligencia Artificial
+En este trabajo se han usado herramientas de inteligencia artificial para:
+- Barajar qué parámetros se podrían utilizar en la simulación, decidiendo añadir alguno de los que estas herramientas enunciaban y quitar alguno de los que el estudiante proponía para mejorar realismo.
+- Seleccionar la configuración inicial de los valores de esos parámetros, para tener un punto de partida. Los valores que se usaron finalmente en los experimentos no fueron los generados por la IA, sino unos seleccionados por el estudiante, guiándose parcialmente por ese punto de partida.
